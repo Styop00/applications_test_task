@@ -26,6 +26,7 @@ Make sure you have the following installed:
 cd applications-test-task-backend
 
 # Copy environment file
+# Set database connections in .env
 cp .env.example .env
 
 # Install PHP dependencies
